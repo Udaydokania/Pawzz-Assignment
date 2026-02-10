@@ -1,0 +1,51 @@
+Category,Business_Name,Phone_Number,Address,Cleaned_Phone,Flag_Invalid_Phone,Flag_Missing_Address,Flag_Duplicate_Phone,verification_status
+Vet,Paws & Claws Veterinary Clinic,-9000012254,"12, Linking Rd, Bandra West, Mumbai, Maharashtra 400050",+919000012254,False,False,False,Ready
+Vet,CityPet Multispeciality Vet Centre,9865626522,"44, MG Rd, Ashok Nagar, Bengaluru, Karnataka 560001",+919865626522,False,False,False,Ready
+Vet,GreenPaws Animal Hospital,-9000012256,"7, Safdarjung Enclave, New Delhi, Delhi 110029",+919000012256,False,False,True,Ready
+Vet,Happy Tails Vet Care,-9000012257,"19, Banjara Hills Rd No 12, Hyderabad, Telangana 500034",+919000012257,False,False,False,Ready
+Vet,Marina Pet Clinic,9000012349,"28, E Coast Rd, Besant Nagar, Chennai, Tamil Nadu 600090",+919000012349,False,False,False,Ready
+Vet,Howrah Pet Wellness Clinic,-9000012259,"55, GT Rd, Howrah, West Bengal 711101",+919000012259,False,False,False,Ready
+Vet,Deccan Pet Polyclinic,90000-12351,"10, FC Rd, Shivajinagar, Pune, Maharashtra 411005",+919000012351,False,False,True,Ready
+Vet,Sabarmati Veterinary Care,-9000012261,"22, CG Rd, Navrangpura, Ahmedabad, Gujarat 380009",+919000012261,False,False,False,Ready
+Vet,PinkCity Pet Hospital,-9000012262,"5, MI Rd, Jaipur, Rajasthan 302001",+919000012262,False,False,False,Ready
+Vet,Gomti Nagar Pet Clinic,-9000012263,"31, Vibhuti Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",+919000012263,False,False,False,Ready
+NGO,Karuna Paws Foundation,-9000012264,"9, Carter Rd, Bandra West, Mumbai, Maharashtra 400050",+919000012264,False,False,False,Ready
+NGO,Delhi Stray Support Society,-9000012265,"14, Lajpat Nagar II, New Delhi, Delhi 110024",+919000012265,False,False,False,Ready
+NGO,Bengaluru Animal Aid Network,-9000012266,"18, Indiranagar 100 Ft Rd, Bengaluru, Karnataka 560038",+919000012266,False,False,False,Ready
+NGO,Hyderabad Street Animal Helpline,-9000012267,"3, Jubilee Hills Check Post, Hyderabad, Telangana 500033",+919000012267,False,False,False,Ready
+NGO,Chennai Care for Animals Trust,-9000012268,"60, Anna Nagar East, Chennai, Tamil Nadu 600102",+919000012268,False,False,False,Ready
+NGO,Kolkata Canine Welfare Collective,-9000012269,"21, Park St, Kolkata, West Bengal 700016",+919000012269,False,False,False,Ready
+NGO,Pune Paw Protectors,9000012361,"77, Koregaon Park, Pune, Maharashtra 411001",+919000012361,False,False,True,Ready
+NGO,Ahmedabad Animal Rescue League,-9000012271,"11, Satellite Rd, Ahmedabad, Gujarat 380015",+919000012271,False,False,False,Ready
+NGO,Jaipur Compassionate Critters,-9000012272,"26, Vaishali Nagar, Jaipur, Rajasthan 302021",+919000012272,False,False,False,Ready
+NGO,Lucknow Humane Hands,9000012364,"8, Hazratganj, Lucknow, Uttar Pradesh 226001",+919000012364,False,False,False,Ready
+Shelter,Mumbai Safe Haven Shelter,-9000012274,"Near Aarey Colony Gate 2, Goregaon East, Mumbai, Maharashtra 400065",+919000012274,False,False,False,Ready
+Shelter,Delhi Adoption & Shelter Home,90000-12366,"Opp. Sanjay Van, Vasant Kunj, New Delhi, Delhi 110070",+919000012366,False,False,False,Ready
+Shelter,Bengaluru Rescue Kennels,-9000012276,"47, Whitefield Main Rd, Bengaluru, Karnataka 560066",+919000012276,False,False,False,Ready
+Shelter,Hyderabad Paws Sanctuary,-9000012277,"Survey 15, Kompally, Hyderabad, Telangana 500100",+919000012277,False,False,False,Ready
+Shelter,Chennai Furry Friends Shelter,-9000012278,"Old Mahabalipuram Rd, Sholinganallur, Chennai, Tamil Nadu 600119",+919000012278,False,False,False,Ready
+Shelter,Kolkata Adoption Shelter,-9000012279,"EM Bypass, Kasba, Kolkata, West Bengal 700107",+919000012279,False,False,False,Ready
+Shelter,Pune Animal Care Shelter,-9000012280,"Sus Rd, Pashan, Pune, Maharashtra 411021",+919000012280,False,False,False,Ready
+Shelter,Ahmedabad Pet Haven Home,-9000012281,"S G Hwy, Thaltej, Ahmedabad, Gujarat 380054",+919000012281,False,False,False,Ready
+Shelter,Jaipur Rescue & Rehab Centre,-9000012282,"Tonk Rd, Pratap Nagar, Jaipur, Rajasthan 302033",+919000012282,False,False,False,Ready
+Shelter,Lucknow Animal Refuge,-9000012283,"IIM Rd, Sitapur Rd, Lucknow, Uttar Pradesh 226013",+919000012283,False,False,False,Ready
+Trainer,Mumbai Canine Obedience School,9000012375,"3, Hiranandani Gardens, Powai, Mumbai, Maharashtra 400076",+919000012375,False,False,False,Ready
+Trainer,Delhi Dog Training Hub,-9000012285,"C-12, Dwarka Sector 7, New Delhi, Delhi 110075",+919000012285,False,False,False,Ready
+Trainer,Bengaluru Positive Paws Training,-9000012286,"27, Jayanagar 4th Block, Bengaluru, Karnataka 560011",+919000012286,False,False,False,Ready
+Trainer,Hyderabad K9 Skills Academy,-9000012287,"6, Gachibowli, Hyderabad, Telangana 500032",+919000012287,False,False,False,Ready
+Trainer,Chennai Leash & Learn Trainers,-9000012288,"15, Velachery Main Rd, Chennai, Tamil Nadu 600042",+919000012288,False,False,False,Ready
+Trainer,Kolkata Companion Training Studio,-9000012289,"12, Salt Lake Sector V, Kolkata, West Bengal 700091",+919000012289,False,False,False,Ready
+Trainer,Pune Puppy Basics Academy,-9000012290,"89, Kalyani Nagar, Pune, Maharashtra 411006",+919000012290,False,False,False,Ready
+Trainer,Ahmedabad K9 Manners Coach,-9000012291,"4, Bodakdev, Ahmedabad, Gujarat 380054",+919000012291,False,False,False,Ready
+Trainer,Jaipur Pet Behaviour Clinic,-9000012292,"17, Malviya Nagar, Jaipur, Rajasthan 302017",+919000012292,False,False,True,Ready
+Trainer,Lucknow Calm Canine Trainers,-9000012293,"2, Aliganj, Lucknow, Uttar Pradesh 226024",+919000012293,False,False,False,Ready
+Boarding,Mumbai Cozy Paws Boarding,-9000012294,"8, Marol, Andheri East, Mumbai, Maharashtra 400059",+919000012294,False,False,True,Ready
+Boarding,Delhi Pet Staycation,-9000012295,"51, Chhattarpur, New Delhi, Delhi 110074",+919000012295,False,False,False,Ready
+Boarding,Bengaluru HomeAway Pet Boarding,-9000012296,"32, HSR Layout Sector 2, Bengaluru, Karnataka 560102",+919000012296,False,False,False,Ready
+Boarding,Hyderabad Wag & Stay Boarding,-9000012297,"20, Kondapur, Hyderabad, Telangana 500084",+919000012297,False,False,False,Ready
+Boarding,Chennai PawPalace Boarding,-9000012298,"OMR, Perungudi, Chennai, Tamil Nadu 600096",+919000012298,False,False,False,Ready
+Boarding,Kolkata Pet Inn Boarding,-9000012299,"45, New Town Action Area 1, Kolkata, West Bengal 700156",+919000012299,False,False,False,Ready
+Boarding,Pune Pet Resort & Boarding,-9000012300,"Baner Rd, Baner, Pune, Maharashtra 411045",+919000012300,False,False,True,Ready
+Boarding,Ahmedabad FurLodge Boarding,-9000012301,"Prahlad Nagar, Ahmedabad, Gujarat 380015",+919000012301,False,False,False,Ready
+Boarding,Jaipur Pet Guest House,-9000012302,"Sirsi Rd, Vaishali Extension, Jaipur, Rajasthan 302034",+919000012302,False,False,False,Ready
+Boarding,Lucknow Happy Kennels Boarding,-9000012303,"Faizabad Rd, Indira Nagar, Lucknow, Uttar Pradesh 226016",+919000012303,False,False,False,Ready
